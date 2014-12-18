@@ -1,0 +1,6 @@
+venv/
+.DS_Store
+*~
+*.pyc
+.sass-cache
+stored_models/
