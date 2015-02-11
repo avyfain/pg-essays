@@ -4,3 +4,4 @@ venv/
 *.pyc
 .sass-cache
 stored_models/
+Gephi/
