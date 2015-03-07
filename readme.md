@@ -2,6 +2,7 @@ pg-essays
 =======
 
 An analysis of Paul Graham's essays.
+A full explanation of the project can be found [here](http://www.faingezicht.com/pages/projects/pg.html "here").
 
 Instructions:
 -------------
